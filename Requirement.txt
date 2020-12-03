@@ -1,0 +1,10 @@
+Requirements :
+
+Python Version - 3.9.0 or later. (Most Important)
+
+CPU: Intel or AMD processor with 64-bit support, 2 GHz or faster processor.
+RAM: 2 GB.
+HDD: 128 mb of storage space.
+GPU: Not required.....
+OS: 64-bit Windows 10
+Screen Resolution: 1280 x 800.
